@@ -1,0 +1,11 @@
+# ignore gradle project-specific cache directory
+.gradle
+
+# ignore gradle build output directory
+build
+
+# ignore gradle wrapper and installation package
+gradle
+
+# ignore netbeans project files
+.nb-gradle
